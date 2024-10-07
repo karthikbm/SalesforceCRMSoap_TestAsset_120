@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.SoapVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:Auto_SFSoap_53_Basic_QueryAcc_120" connectorServiceName="CCS:Auto_SFSoap_53_Basic_QueryAcc_120"/>
+            <keyDetails collectionKey="CCS:Auto_SFSoap_53_JWT_QueryAcc_120_CCS" connectorServiceName="CCS:Auto_SFSoap_53_JWT_QueryAcc_120_CCS"/>
+            <keyDetails collectionKey="CCS:Auto_SFSoap_53_OAuth_QueryAcc_120_CCS" connectorServiceName="CCS:Auto_SFSoap_53_OAuth_QueryAcc_120_CCS"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
